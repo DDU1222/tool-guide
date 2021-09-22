@@ -1,15 +1,8 @@
 # 新手引导使用指南
 
-背景
+the universal solution of new hand through to click the next step button to complete the process
 
-伙伴们是不是都接到过类似的活，新手引导 - 选中页面上的某个元素高亮并将其他部分用蒙层盖住，加上一个指引说明和下一步。工作量不大，每次都是一顿操作就加上了，但是日复一日，当我们再次遇到类似的需求，是不是非常悔恨上一次为什么不做个通用的呢？ 身为程序媛，我也走过同样的路，并且这条路都快走成水泥道了、、、
-
-
-所以这次下定决心，这次一定搞个通用的，给小哥哥用上！！！
-
-
-使用案例：
-
+一个通过点击下一步按钮来完成新手操作流程的解决方案
 
 ```typescript
 const guide = new Guide({
