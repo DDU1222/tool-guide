@@ -1,12 +1,13 @@
 {
   "name": "tool-guide",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "scripts": {
     "dev": "vite",
     "build:test": "vue-tsc --noEmit && vite build",
     "serve": "vite preview",
     "build": "tsc"
   },
+  "repository": "https://github.com/DDU1222/tool-guide.git",
   "dependencies": {
     "vue": "^3.2.13",
     "vue-class-component": "^7.2.6",

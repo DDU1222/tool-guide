@@ -1,6 +1,6 @@
 # 新手引导使用指南
 
-the universal solution of new hand through to click the next step button to complete the process
+A General Novice Guidance Solution by Clicking the Next Button
 
 一个通过点击下一步按钮来完成新手操作流程的解决方案
 
